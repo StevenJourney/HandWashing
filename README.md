@@ -20,8 +20,8 @@ Essential skills for data analysis:
 * Employ scipy to test for statistical significance.
 Explore p-values and their implications.
 4. Time Series Visualization:
-Highlight specific segments of time series charts using Matplotlib.
+* Highlight specific segments of time series charts using Matplotlib.
 5. Adding Legends and Customization:
-Configure legends in Matplotlib for clear visual communication.
+* Configure legends in Matplotlib for clear visual communication.
 6. NumPy’s .where() Function:
-Process elements conditionally using NumPy.
+* Process elements conditionally using NumPy.
